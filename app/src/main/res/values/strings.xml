@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Alarmes</string>
+    <string name="services_title">Escolha um ex de service</string>
+    <string name="button_lancar_um">Lancar 1</string>
+    <string name="button_lancar_dois">Lancar 2</string>
+    <string name="button_lancar_tres">Lancar 3</string>
+    <string name="button_start">Start</string>
+    <string name="button_stop">Stop</string>
+    <string name="title_alarme">lançamento do alarme  </string>
+    <string name="title_alarme_dois">lançamento do alarme dois</string>
+    <string name="title_alarme_tres">lançamento do alarme tres</string>
+    <string name="title_click_aqui">Click aqui ;)</string>
+    <string name="title_data">Data:</string>
+    <string name="title_hora">Hora:</string>
+    <string name="title_agendar_um_min">Agendar para daqui a um min</string>
+</resources>
